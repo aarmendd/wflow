@@ -1,2 +1,2 @@
 # wflow
-A React JS WordPress Plugin for NEAR integration
+A React JS WordPress Plugin for NEAR integration!
